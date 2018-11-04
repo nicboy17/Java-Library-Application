@@ -1,0 +1,69 @@
+Type: book
+Title: java
+callNumber: qa7
+Year: 1998
+Authors: 
+Publisher: Oracle
+Type: book
+Title: random
+callNumber: asnfong
+Year: 3333
+Authors: 
+Publisher: 
+Type: book
+Title: Absolute Java
+callNumber: QA76
+Year: 2009
+Authors: Walter
+Publisher: Addision
+Type: book
+Title: Sharks
+callNumber: Shrk
+Year: 2002
+Authors: people
+Publisher: peoples
+Type: book
+Title: jobs
+callNumber: JB70
+Year: 2013
+Authors: Walter
+Publisher: 
+Type: book
+Title: Spider Pig
+callNumber: SP10
+Year: 2010
+Authors: Simpsons
+Publisher: Fox
+Type: book
+Title: RaNdOM
+callNumber: 432765g
+Year: 1010
+Authors: 
+Publisher: 
+Type: book
+Title: Cherrys
+callNumber: Cherry
+Year: 2006
+Authors: Don
+Publisher: 
+Type: book
+Title: How to Fish Like a Champ
+callNumber: 123456
+Year: 2015
+Authors: Wes Major
+Publisher: Bullshit Publications
+Type: journal
+Title: Test 1
+callNumber: 1
+Year: 2015
+Organization: 
+Type: journal
+Title: Test 2
+callNumber: 2
+Year: 2015
+Organization: 
+Type: journal
+Title: Test 3
+callNumber: 3
+Year: 2015
+Organization: 
